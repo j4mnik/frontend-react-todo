@@ -1,8 +1,4 @@
-# Frontend for Todo app written in React 
-
-![](screenshots/1.png?raw=true)
-![](screenshots/2.png?raw=true)
-
+# Frontend for Todo app 
 ## Setup
 To run this project:
 
